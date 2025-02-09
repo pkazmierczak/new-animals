@@ -8,6 +8,9 @@ Say hi to Kulka
 
 ![](kulka.jpeg)
 
+Here's a picture of another cat
+![](https://cdn.cdnparenting.com/articles/2021/02/09155822/259729697.webp)
+
 and yet he eats a lot.
 
 Kulka is a good cat. Well, "good" is perhaps a strong word, he's a decent cat. 
