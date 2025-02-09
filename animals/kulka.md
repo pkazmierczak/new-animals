@@ -6,6 +6,8 @@ Cat is really cool
 
 Say hi to Kulka 
 
+It is a cute black and white cat.
+
 ![](kulka.jpeg)
 
 Here's a picture of another cat
